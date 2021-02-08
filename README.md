@@ -1,0 +1,2 @@
+# java7_Stream
+由于公司项目使用jdk7，不能用stream，所以手写了一套简易的适配于java7的streamApi
