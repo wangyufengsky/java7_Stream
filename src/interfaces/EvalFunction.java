@@ -1,7 +1,7 @@
 package interfaces;
 
-
 import impl.MyStream;
+
 
 public interface EvalFunction<T> {
     /**

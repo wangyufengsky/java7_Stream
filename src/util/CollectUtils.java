@@ -12,9 +12,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-/**
- * stream.collect() 参数常用工具类
- */
+
 public class CollectUtils {
 
     /**

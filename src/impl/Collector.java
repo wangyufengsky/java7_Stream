@@ -1,9 +1,11 @@
 package impl;
 
 
+
 import interfaces.BiFunction;
 import interfaces.Function;
 import interfaces.Supplier;
+
 
 /**
  * collect接口 收集器

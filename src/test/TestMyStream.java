@@ -7,7 +7,6 @@ import interfaces.BiFunction;
 import interfaces.Function;
 import interfaces.Predicate;
 
-
 public class TestMyStream {
 
     public static void main(String[] args){
